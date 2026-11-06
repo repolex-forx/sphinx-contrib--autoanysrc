@@ -1,0 +1,14 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/sphinx-contrib/autoanysrc",
+  "@type": "gh:Repository",
+  "gh:name": "autoanysrc",
+  "gh:owner": "sphinx-contrib",
+  "repolex:trackedCommit": [
+    {
+      "@id": "https://repolex.ai/r/sphinx-contrib/autoanysrc/commit/481f1285f0da6755a3253ef229f323ae272da1bb",
+      "git:hexsha": "481f1285f0da6755a3253ef229f323ae272da1bb",
+      "repolex:parseStatus": "metadata_complete"
+    }
+  ]
+}
